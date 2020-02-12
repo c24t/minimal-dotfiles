@@ -24,7 +24,6 @@ function dotrelink () {
   dotrelink vimrc .vimrc
   dotrelink pythonrc .pythonrc
   dotrelink screenrc .screenrc
-  dotrelink gitconfig .gitconfig
   dotrelink tmuxrc .tmux.conf
   dotrelink inputrc .inputrc
   mkdir -p .aliases
